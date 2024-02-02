@@ -32,12 +32,13 @@ Follow these steps to get the project up and running on your local machine.
 
    ```bash
    node server.js
-   Ensure you have set the MONGO_URL environment variable with your MongoDB connection string.
+   
+*Ensure you have set the MONGO_URL environment variable with your MongoDB connection string.*
 
 ### Running the Frontend
 
 1. **Navigate to the src folder:**
-
+   ```bash
    cd client/src
 2. **Start the frontend by running:**
     node index.js
