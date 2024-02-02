@@ -45,6 +45,7 @@ Follow these steps to get the project up and running on your local machine.
     node index.js
    
  *This will launch the frontend application.*
+ ***Need to wait for few seconds so that top news fetches from API***
 
 ### Accessing the App
    *Open your browser and navigate to http://localhost:your-port (replace your-port with the port where your server is running).*
