@@ -19,11 +19,11 @@ Follow these steps to get the project up and running on your local machine.
    ```bash
    git clone https://github.com/your-username/HackerNews-Feed.git
 2. **Navigate to the project directory:**
-
+   ```bash
    cd HackerNews-Feed
 
 3. **Install npm modules:**
-
+   ```bash
    npm install
 
 ### Running the server
