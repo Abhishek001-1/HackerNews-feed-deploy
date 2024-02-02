@@ -9,6 +9,7 @@ Follow these steps to get the project up and running on your local machine.
 ### Prerequisites
 
 - Node.js
+- React.js
 - MongoDB
 
 ### Installation
