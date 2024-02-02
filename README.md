@@ -3,6 +3,7 @@
 Welcome to the HackerNews Feed project! This project aims to provide a simplified version of the popular HackerNews website, allowing users to view the top 90 articles in reverse chronological order.
 
 Live Link - https://hackernews-feed-deploy.onrender.com/login
+PS - Need to wait for few seconds so that top news fetches from API
 
 ## Getting Started
 
