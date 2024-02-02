@@ -54,9 +54,10 @@ Follow these steps to get the project up and running on your local machine.
    *Open your browser and navigate to http://localhost:your-port (replace your-port with the port where your server is running).*
 
 ### Features :
-  **Objective :**
-    The main goal of this project is to create a simplified HackerNews clone that displays the top 90 articles in reverse chronological order.
- **Requirements:**
+  **Objective:**
+The main goal of this project is to create a simplified HackerNews clone that displays the top 90 articles in reverse chronological order.
+
+**Requirements:**
 - Each news item includes fields such as URL, Hacker News URL, posted on, upvotes, and comments.
 - A script crawls the first three pages, extracts news items, and adds them to the database. If an item exists, it updates the upvote and comment counts.
 - Users can sign up or log in to the dashboard.
