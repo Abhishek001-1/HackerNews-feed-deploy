@@ -41,27 +41,30 @@ Follow these steps to get the project up and running on your local machine.
    ```bash
    cd client/src
 2. **Start the frontend by running:**
+   ```bash
     node index.js
-    This will launch the frontend application.
+   
+ *This will launch the frontend application.*
 
 ### Accessing the App
-  Open your browser and navigate to http://localhost:your-port (replace your-port with the port where your server is running).
+   *Open your browser and navigate to http://localhost:your-port (replace your-port with the port where your server is running).*
 
 ### Features :
-  ## Objective :
+  ** Objective :**
     The main goal of this project is to create a simplified HackerNews clone that displays the top 90 articles in reverse chronological order.
-  ## Requirements :
-    Each news item includes fields such as URL, Hacker News URL, posted on, upvotes, and comments.
-    A script crawls the first three pages, extracts news items, and adds them to the database. If an item exists, it updates the upvote and comment counts.
-    Users can sign up or log in to the dashboard.
-    A dashboard displays all news items in reverse chronological order.
-    Users can mark a news item as read or delete it. Deleted items are not shown in their panel but are not removed from the database.
+ **Requirements:**
+- Each news item includes fields such as URL, Hacker News URL, posted on, upvotes, and comments.
+- A script crawls the first three pages, extracts news items, and adds them to the database. If an item exists, it updates the upvote and comment counts.
+- Users can sign up or log in to the dashboard.
+- A dashboard displays all news items in reverse chronological order.
+- Users can mark a news item as read or delete it. Deleted items are not shown in their panel but are not removed from the database.
 
-  ## Contributing :
-    Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
 
-  ## License :
-    This project is licensed under the MIT License - see the LICENSE file for details.
+## Contributing :
+ Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
+
+## License :
+ This project is licensed under the MIT License - see the LICENSE file for details.
 
 Happy hacking!
   
