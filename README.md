@@ -30,7 +30,8 @@ Follow these steps to get the project up and running on your local machine.
 
 1. **Start the server by running the following command:**
 
-   ```node server.js
+   ```bash
+   node server.js
    Ensure you have set the MONGO_URL environment variable with your MongoDB connection string.
 
 ### Running the Frontend
